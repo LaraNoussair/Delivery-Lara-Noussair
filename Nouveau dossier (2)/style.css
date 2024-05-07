@@ -1,0 +1,183 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Reddit+Sans+Condensed:wght@200..900&display=swap');;
+
+
+
+* {margin: 0;
+
+  box-sizing: border-box;}
+
+
+h1, h2{
+
+   font-family: "Lobster", sans-serif;
+
+   font-weight: 400;
+
+   font-size: 36px;
+
+   color: #014b22;
+
+   text-align: left;
+
+   line-height: 120px;
+
+}
+
+
+h1 {
+
+  text-transform: uppercase;
+
+  text-decoration: underline;
+
+  font-size: 54px;
+
+}
+
+
+header, section {
+
+   width: 83.33%;
+
+   margin: 0 auto;
+
+   margin-bottom: 4em;
+
+  }
+
+ p {
+
+   font-family: "Redito+Sans+Condensed", sans-serif;
+
+   font-weight: 100;
+
+   margin-bottom:54px ;
+
+}
+
+
+a {
+
+   color: #1a2dff;
+
+   border: 1px #0446fa solid;
+
+   padding: 0.5em 1em;
+
+}
+
+#secondSection {
+
+    width: 100%;
+ 
+    background-color: #fef666;
+ 
+   }
+
+a:hover {
+
+   color: #efff11;
+
+}
+
+
+div {
+
+   width: 83.33%;
+
+   margin:0 auto;
+
+ }
+
+ div p {
+
+    font-family: "Nunito+Sans", sans-serif;
+ 
+    font-weight: 100;
+ 
+    margin-bottom:64px ;
+ 
+    text-align: left;
+ 
+ }
+ 
+ 
+ div div {
+ 
+    width: 100%;
+ 
+    margin: 0;
+ 
+    display: flex;
+ 
+    justify-content: space-between;
+ 
+  }
+ 
+ 
+ #secondSection img {
+ 
+    width: 40%;
+ 
+    margin-bottom: 2em;
+ 
+  }
+ 
+ 
+ img {
+ 
+    width: 50%;
+ 
+    margin-left: auto;
+ 
+    margin-right: auto;
+ 
+    display: block;
+ 
+  }
+ 
+  #section4 img {
+ 
+    width: 333.33px;
+  
+    height: 250px;
+  
+    margin-right: 6px ;
+  
+  
+  }
+
+ #section4 div {
+ 
+    width: 100%;
+ 
+    margin: 0;
+ 
+    display: flex;
+ 
+    justify-content:space-between;
+ 
+    margin-bottom: 4em;
+ 
+    margin-right: 20px;
+ 
+    align-items: center;
+ 
+ }
+ 
+
+ 
+ footer {
+ 
+   background-color: #002fff;
+ 
+   height: 200px;
+ 
+   width: 100%;
+ 
+   margin: 0;
+ 
+   }
+ 
+ 
